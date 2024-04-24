@@ -17,6 +17,7 @@ Exemplo:
 Entre a largura e altura do retângulo:
 Largura = 3.00
 Altura = 4.00
+
 Resultados para os números inseridos acima:
 AREA = 12.00
 PERÍMETRO = 14.00
